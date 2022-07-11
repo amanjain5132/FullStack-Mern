@@ -1,0 +1,41 @@
+.box
+{
+    width: 100%;
+    height: 600px;
+    margin-top: 75px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+    width: 100%;
+}
+.desc{
+    width: 500px;
+    color: #fff;
+    margin:0;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    margin: 100px;
+}
+.desc p{
+    font-size: 22px;
+}
+.desc h1{
+    font-size: 58px;
+}
+.desc h3{
+    font-size: 20px;
+}
+.box{
+    position: relative;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: #F58A25;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+}
